@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nyoungxx
 - 👀 I’m interested in Full Stack Development 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I am currently learning Python
 - 💞️ I’m looking to collaborate on different cool projects/(websites) 
 - 📫 How to reach me : nicolerhodes718@gmail.com
 
