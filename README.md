@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development 
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on different cool projects/(websites) 
-- 📫 How to reach me : techworld@nilajayoung.com
+- 📫 How to reach me : nicolerhodes718@gmail.com
 
 <!---
 nyoungxx/nyoungxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
