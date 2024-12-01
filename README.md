@@ -1,3 +1,5 @@
+![Github Robot](https://github.com/user-attachments/assets/e8506afe-66b1-4b41-8c6b-e837343095e9)
+
 - 👋 Hi, I’m @nyoungxx
 - 👀 I’m interested in Full Stack Development 
 - 🌱 I am currently learning Python
