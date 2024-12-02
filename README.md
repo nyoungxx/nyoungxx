@@ -10,7 +10,7 @@
 nyoungxx/nyoungxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Here are screenshota of a few HTML projects! 
+Here are screenshota of a few HTML projects! The first one incorporates Jacascript for dropbox functionality.
 Dropbox 
 ![Website Type](https://github.com/user-attachments/assets/3ea0f7c2-15d5-424d-9fdb-db6ff5217beb)
 Cafe Menu
