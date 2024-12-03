@@ -10,11 +10,13 @@
 nyoungxx/nyoungxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Here are screenshota of a few HTML projects! The first one incorporates Javascript for dropbox functionality.
+Here are screenshota of a few HTML,CSS, andd Javascript projects! The first one incorporates Javascript for dropbox functionality.
 Dropbox 
 ![Website Type](https://github.com/user-attachments/assets/3ea0f7c2-15d5-424d-9fdb-db6ff5217beb)
 Cafe Menu
 ![NCC Project](https://github.com/user-attachments/assets/907628e3-e5ae-4355-965a-d7ce640eefc3)
+With additional CSS added
+![Screenshot_2-12-2024_171121_](https://github.com/user-attachments/assets/a6e89136-62fd-4122-86de-50a6d070abb5)
 Simple Business Card 
 ![Screenshot_2-12-2024_123345_](https://github.com/user-attachments/assets/4b39df5c-658d-4224-a2af-ab10f0fcd088)
 Front End Developer Intro
