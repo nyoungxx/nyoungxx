@@ -19,6 +19,8 @@ With additional CSS added
 ![Screenshot_2-12-2024_185635_](https://github.com/user-attachments/assets/52f7fcb5-2d2f-472b-90a4-40163c92e731)
 Simple Business Card 
 ![Screenshot_2-12-2024_123345_](https://github.com/user-attachments/assets/4b39df5c-658d-4224-a2af-ab10f0fcd088)
+Customized SBC
+![Screenshot_2-12-2024_213556_](https://github.com/user-attachments/assets/baddb7e3-f782-46ab-a532-1798f23a6b4d)
 Front End Developer Intro
 ![Screenshot_2-12-2024_123210_](https://github.com/user-attachments/assets/36409d0a-4c83-49b8-a760-0381137732e0)
 Business Inquery 
