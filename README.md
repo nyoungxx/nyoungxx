@@ -23,6 +23,8 @@ Customized SBC
 ![Screenshot_2-12-2024_213556_](https://github.com/user-attachments/assets/baddb7e3-f782-46ab-a532-1798f23a6b4d)
 Front End Developer Intro
 ![Screenshot_2-12-2024_123210_](https://github.com/user-attachments/assets/36409d0a-4c83-49b8-a760-0381137732e0)
+Updated (willl attach project links to site)
+![Screenshot_3-12-2024_54652_](https://github.com/user-attachments/assets/c4000f78-5039-4b31-8550-250235929724)
 Business Inquery 
 ![screenshot-1733194933067](https://github.com/user-attachments/assets/05625662-0dad-419c-8b19-6dcae4d0ac42)
 
